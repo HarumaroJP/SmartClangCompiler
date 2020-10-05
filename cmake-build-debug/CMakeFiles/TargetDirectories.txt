@@ -1,0 +1,3 @@
+/Users/haruto/Desktop/scc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/haruto/Desktop/scc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/haruto/Desktop/scc/cmake-build-debug/CMakeFiles/scc.dir
