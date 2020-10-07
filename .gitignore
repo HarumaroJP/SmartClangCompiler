@@ -1,0 +1,7 @@
+*~
+*.o
+tmp*
+a.out
+scc
+cmake-build-debug/
+.DS_Store

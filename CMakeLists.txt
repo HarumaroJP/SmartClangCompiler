@@ -3,4 +3,4 @@ project(scc C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(scc main.c)
+add_executable(main.c)
