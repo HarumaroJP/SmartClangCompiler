@@ -1,7 +1,4 @@
-"/Users/haruto/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/202.7319.72/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=/usr/local/opt/llvm/bin/clang -G "CodeBlocks - Unix Makefiles" /Users/haruto/Desktop/scc
+"/Users/haruto/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=/usr/local/opt/llvm/bin/clang -G "CodeBlocks - Unix Makefiles" /Users/haruto/Desktop/scc
 -- Configuring done
-CMake Error at CMakeLists.txt:6 (add_executable):
-  No SOURCES given to target: main.c
-
-
-CMake Generate step failed.  Build files cannot be regenerated correctly.
+-- Generating done
+-- Build files have been written to: /Users/haruto/Desktop/scc/cmake-build-debug
